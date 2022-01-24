@@ -7,7 +7,7 @@
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion": "9",
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-subclasses/main/module.json",
-"download": "https://github.com/KibblesTasty/kibbles-casting-compendium/releases/download/archive/kibbles-generic-subclasses-main.zip",
+"download": "https://github.com/KibblesTasty/kibbles-generic-subclasses/releases/download/archive/kibbles-generic-subclasses-main.zip",
 "keywords" : [
 			"subclass"
 		],
