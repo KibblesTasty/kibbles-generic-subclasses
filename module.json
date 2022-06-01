@@ -3,7 +3,7 @@
 "title": "Kibbles' Generic Subclasses",
 "description": "A suppliment of basic subclasses for 5e",
 "author": "KibblesTasty",
-"version": "0.8.1",
+"version": "0.8.2",
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion": "9",
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-subclasses/main/module.json",
