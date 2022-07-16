@@ -1,24 +1,24 @@
 {
-"name": "kibbles-generic-subclasses",
-"title": "Kibbles' Generic Subclasses",
-"description": "A suppliment of basic subclasses for 5e",
+"name": "kibbles-feats",
+"title": "Kibbles' Feats",
+"description": "The Foundry module for Kibbles' feats.",
 "author": "KibblesTasty",
-"version": "0.8.2",
+"version": "1.2",
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion": "9",
-"manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-subclasses/main/module.json",
-"download": "https://github.com/KibblesTasty/kibbles-generic-subclasses/releases/download/archive/kibbles-generic-subclasses-main.zip",
+"manifest": "https://github.com/KibblesTasty/kibbles-feats/releases/download/archive/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-feats/releases/download/archive/kibbles-feats-main.zip",
 "keywords" : [
-			"subclass"
+			"feats"
 		],
 "packs": [
 			{
-			"name": "kibbles-generic-subclasses",
-			"label": "Kibbles' Generic Subclasses",
+			"name": "kibbles-feats",
+			"label": "Kibbles' Feats",
 			"system": "dnd5e",
-			"path": "packs/kibbles-generic-subclasses.db",
+			"path": "packs/kibbles-feats.db",
 			"entity": "Item",
-			"module": "kibbles-generic-subclasses"
+			"module": "kibbles-feats"
 			}
 		],
 "authors": [
