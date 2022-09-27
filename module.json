@@ -7,8 +7,7 @@
 "minimumCoreVersion": "0.6.0",
 "compatibility": {
 		"minimum": "9",
-		"verified": "10.286",
-		"maximum": "10"
+		"verified": "10",
 	},
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-subclasses/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-generic-subclasses/releases/download/archive/kibbles-generic-subclasses-main.zip",
